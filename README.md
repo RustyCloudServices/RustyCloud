@@ -20,9 +20,9 @@
 ## Features
 (✅ = Done, ⚙️ = currently working on, ❌ = not started)
 
-- console & commands ❌
+- console & commands ⚙️
 - start minecraft servers ([spigot](https://getbukkit.org/download/spigot)
-  , [bukkit](https://getbukkit.org/download/craftbukkit) and [paper](https://papermc.io) based forks) ❌
+  , [bukkit](https://getbukkit.org/download/craftbukkit) and [paper](https://papermc.io) based forks) ⚙️
 - start proxy servers ([bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
   , [waterfall](https://github.com/PaperMC/Waterfall), [velocity](https://github.com/PaperMC/Velocity)) ❌
 - custom minecraft server implementation support ❌
