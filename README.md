@@ -24,10 +24,10 @@
 - start minecraft servers ([spigot](https://getbukkit.org/download/spigot)
   , [bukkit](https://getbukkit.org/download/craftbukkit) and [paper](https://papermc.io) based forks) ⚙️
 - start proxy servers ([bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
-  , [waterfall](https://github.com/PaperMC/Waterfall), [velocity](https://github.com/PaperMC/Velocity)) ❌
+  , [waterfall](https://github.com/PaperMC/Waterfall), [velocity](https://github.com/PaperMC/Velocity)) ⚙️
 - custom minecraft server implementation support ❌
 - modify jvm flags for each group ❌
-- print formatted server error to console ❌
+- print formatted server error to console ❌ 
 - service templates ❌
 - developer api (rust & java) ❌
 - support for most sql databases ❌
